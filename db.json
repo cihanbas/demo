@@ -88,7 +88,7 @@
       "id": 7,
       "title": "Red",
       "artist": "Taylor Swift",
-      "url": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+      "description": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
       "poster": "https://images-na.ssl-images-amazon.com/images/I/41j7-7yboXL.jpg",
       "likes": 50,
       "tracks": "1,100.250"
