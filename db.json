@@ -1,15 +1,106 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-       { "id": 4, "title 4": "Post 4" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    },
+    {
+      "id": 4,
+      "title 4": "Post 4"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "playlists": [
+    {
+      "id": 1,
+      "title": "Speak Now",
+      "description": "Speak Now is the third studio album by American singer-songwriter Taylor Swift. It was released on October 25, 2010, by Big Machine Records. Production for the album took place during 2009 to 2010 at several recording studios, and was handled by Swift and Nathan Chapman. Written entirely by Swift as the follow-up to Fearless, and described as a loose concept album about confessions,[5] Speak Now expands on the country pop style of her previous work, but with more rock sensibility, drawing influences from bluegrass, pop punk, pop rock and soft rock. Lyrically, it deals with themes such as love, romance, heartbreak and forgiveness.      ",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 2,
+      "title": "Fearless",
+      "description": "Speak Now is the third studio album by American singer-songwriter Taylor Swift. It was released on October 25, 2010, by Big Machine Records. Production for the album took place during 2009 to 2010 at several recording studios, and was handled by Swift and Nathan Chapman. Written entirely by Swift as the follow-up to Fearless, and described as a loose concept album about confessions,[5] Speak Now expands on the country pop style of her previous work, but with more rock sensibility, drawing influences from bluegrass, pop punk, pop rock and soft rock. Lyrically, it deals with themes such as love, romance, heartbreak and forgiveness.      ",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg",
+      "likes": 509,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 3,
+      "title": "Red",
+      "description": "Speak Now is the third studio album by American singer-songwriter Taylor Swift. It was released on October 25, 2010, by Big Machine Records. Production for the album took place during 2009 to 2010 at several recording studios, and was handled by Swift and Nathan Chapman. Written entirely by Swift as the follow-up to Fearless, and described as a loose concept album about confessions,[5] Speak Now expands on the country pop style of her previous work, but with more rock sensibility, drawing influences from bluegrass, pop punk, pop rock and soft rock. Lyrically, it deals with themes such as love, romance, heartbreak and forgiveness.      ",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 4,
+      "title": "Taylor Swift",
+      "artist": "Taylor Swift",
+      "description": "Speak Now is the third studio album by American singer-songwriter Taylor Swift. It was released on October 25, 2010, by Big Machine Records. Production for the album took place during 2009 to 2010 at several recording studios, and was handled by Swift and Nathan Chapman. Written entirely by Swift as the follow-up to Fearless, and described as a loose concept album about confessions,[5] Speak Now expands on the country pop style of her previous work, but with more rock sensibility, drawing influences from bluegrass, pop punk, pop rock and soft rock. Lyrically, it deals with themes such as love, romance, heartbreak and forgiveness.      ",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 5,
+      "title": "Fearless",
+      "artist": "Taylor Swift",
+      "description": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 6,
+      "title": "Speak Now",
+      "artist": "Taylor Swift",
+      "description": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/51vlGuX7%2BFL.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 7,
+      "title": "Red",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/41j7-7yboXL.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    },
+    {
+      "id": 8,
+      "title": "1989",
+      "artist": "Taylor Swift",
+      "description": "https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/717DWgRftmL._SX522_.jpg",
+      "likes": 50,
+      "tracks": "1,100.250"
+    }
+  ]
 }
